@@ -1,0 +1,1 @@
+print("Hello from inisde a file!")
